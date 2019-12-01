@@ -12,13 +12,13 @@ A collection of resources about fuzzing test.
 
 ## Paper
 ***
-###Survey
+### Survey
 - 2018(C&S)A systematic review of fuzzing techniques
 - 2019(TSE)The Art, Science, and Engineering of Fuzzing: A Survey
-###ASE
+### ASE
 - 2018(ASE)ContractFuzzer Fuzzing Smart Contracts for Vulnerability Detection
 - 2018(ASE)FairFuzz A Targeted Mutation Strategy for Increasing Greybox Fuzz Testing Coverage
-###CCS
+### CCS
 - 2016(CCS)Coverage-based Greybox Fuzzing as Markov Chain
 - 2017(CCS)Directed Greybox Fuzzing
 - 2017(CCS)Designing New Operating Primitives to Improve Fuzzing Performance
@@ -26,10 +26,10 @@ A collection of resources about fuzzing test.
 - 2018(CCS)Evaluating Fuzz Testing
 - 2018(CCS)Hawkeye Towards a Desired Directed Grey-box Fuzzer
 - 2019(CCS)Matryoshka Fuzzing Deeply Nested Branches
-###FSE
+### FSE
 - 2018(FSE)Singularity Pattern Fuzzing for Worst Case Complexity
 - 2019(FSE)FUDGE_ Fuzz Driver Generation at Scale
-###NDSS
+### NDSS
 - 2016(NDSS)Driller Augmenting Fuzzing Through Selective Symbolic Execution 
 - 2017(NDSS)VUzzer Application-aware Evolutionary Fuzzing
 - 2018(NDSS)Enhancing Memory Error Detection for Large-Scale Applications and Fuzz Testing
@@ -42,19 +42,19 @@ A collection of resources about fuzzing test.
 - 2019(NDSS)REDQUEEN  Fuzzing with Input-to-State Correspondence
 - 2019(NDSS)Send Hardest Problems My Way Probabilistic Path Prioritization for Hybrid Fuzzing
 
-###ISSTA
+### ISSTA
 - 2018(ISSTA)PerfFuzz_ Automatically Generating Pathological Inputs
 - 2019(ISSTA)Semantic Fuzzing with Zest
-###ICSE
+### ICSE
 - 2019(ICSE)DIFFUZZ  Differential Fuzzing for Side-Channel Analysis
 - 2019(ICSE)REST-ler: Stateful REST API Fuzzing
 - 2019(ICSE)SLF Fuzzing without Valid Seed Inputs
 - 2019(ICSE)Superion Grammar-Aware Greybox Fuzzing
 - 2019(ICSE)DifFuzz: differential fuzzing for side-channel analysis
-###PLDI
+### PLDI
 - 2016(PLDI)Coverage-Directed Differential Testing of JVM Implementations
 - 2019(PLDI)Parser-Directed Fuzzing
-###S&P
+### S&P
 - 2017(SP)NEZHA  Efficient Domain-Independent Differential Testing
 - 2017(SP)Skyfire Data-Driven Seed Generation for Fuzzing
 - 2018(SP)Angora Efficient Fuzzing by Principled Search
@@ -65,19 +65,19 @@ A collection of resources about fuzzing test.
 - 2019(SP)NEUZZ Efficient Fuzzing with Neural Program Smoothing
 - 2019(SP)ProFuzzer On-the-fly Input Type Probing for Better Zero-day Vulnerability Discovery
 - 2019(SP)Razzer Finding Kernel Race Bugs through Fuzzing
-###TSE
+### TSE
 - 2018(TSE)Coverage-based Greybox Fuzzing as Markov Chain
-###USENUX
+### USENUX
 - 2017(USENUX)kAFL Hardware-Assisted Feedback Fuzzing for OS Kernels
 - 2018(USENUX)MoonShine Optimizing OS Fuzzer Seed Selection with Trace Distillation
 - 2018(USENUX)Q SYM  A Practical Concolic Execution Engine Tailored for Hybrid Fuzzing
 
-###Other
+### Other
 - 2016TreeFuzz_Learning to Fuzz Application-Independent Fuzz Testing with Probabilistic, - Generative Models of Input Data
 - 2018Coverage-Guided Fuzzing for Deep Neural Networks
 - 2018TensorFuzz Debugging Neural Networks with Coverage-Guided Fuzzing
 
-###Tutorial & Practice
+### Tutorial & Practice
 ***
 - [Exercises to learn how to fuzz with American Fuzzy Lop](https://github.com/mykter/afl-training)
 - [Modern fuzzing of C/C++ Projects, libfuzzer-workshop](https://github.com/Dor1s/libfuzzer-workshop)
